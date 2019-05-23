@@ -2,7 +2,7 @@
 TuChief's Tech
 </h2>
 
-<h4 align="center">技术永无止境</h4>
+<h4 align="center">好心态才有好状态</h4>
 <p align="center"><a title="TuChief's Tech" target="_blank" href="https://github.com/tuchief/solo-blog"><img src="https://img.shields.io/github/last-commit/tuchief/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/tuchief/solo-blog"><img src="https://img.shields.io/github/repo-size/tuchief/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.1-f1e05a.svg?style=flat-square&color=blueviolet"></a>
@@ -10,6 +10,7 @@ TuChief's Tech
 
 ### 最新
 
+* [IDEA 单行注释自动缩进的配置](http://www.tuchief.com/articles/2019/05/23/1558617608961.html)
 * [关于解决TeamViewer商业用途的提示方法](http://www.tuchief.com/articles/2018/10/23/1540286152157.html)
 * [解决webpck不能编译scss文件中的 -webkit-box-orient: vertical 属性](http://www.tuchief.com/articles/2018/08/20/1534780454139.html)
 * [升级tensorflow后，出现错误为 ImportError: No module named protobuf 的信息](http://www.tuchief.com/articles/2018/07/24/1532421155317.html)
@@ -29,10 +30,10 @@ TuChief's Tech
 * [关于Mac升级到10.13之后git命令提示missing xcrun错误的解决方法](http://www.tuchief.com/articles/2017/09/26/1506435000252.html)
 * [MacOS High Sierra 10.13 发布](http://www.tuchief.com/articles/2017/09/26/1506390561810.html)
 * [在Dock中显示最近使用的应用程序或文稿](http://www.tuchief.com/articles/2017/09/02/1504336732496.html)
-* [在JetBrains 全家桶中使用正则表达式进行全局替换的简单操作](http://www.tuchief.com/articles/2017/08/30/1504108330525.html)
 
 ### 热门
 
+* [在JetBrains 全家桶中使用正则表达式进行全局替换的简单操作](http://www.tuchief.com/articles/2017/08/30/1504108330525.html)
 * [基于CentOS7搭建的Ngrok内网穿透服务](http://www.tuchief.com/articles/2017/08/14/1502687731371.html)
 * [在centos6中安装mmseg3遇到由于libtool的编译问题的解决方法](http://www.tuchief.com/articles/2017/08/08/1502162392438.html)
 * [在CentOS6.8下搭建RStudio Server进行在线数据分析](http://www.tuchief.com/rstudio-server)

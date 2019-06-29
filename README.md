@@ -10,6 +10,8 @@ TuChief's Tech
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](http://www.tuchief.com/my-github-repos)
+* [升级macOS到10.15 Beta 版(19A487m)，代号 Catalina](http://www.tuchief.com/articles/2019/06/29/1561784807995.html)
 * [IDEA 单行注释自动缩进的配置](http://www.tuchief.com/articles/2019/05/23/1558617608961.html)
 * [关于解决TeamViewer商业用途的提示方法](http://www.tuchief.com/articles/2018/10/23/1540286152157.html)
 * [解决webpck不能编译scss文件中的 -webkit-box-orient: vertical 属性](http://www.tuchief.com/articles/2018/08/20/1534780454139.html)
@@ -28,13 +30,13 @@ TuChief's Tech
 * [一条命令让您的 macOS 用 Touch ID 授权 sudo](http://www.tuchief.com/articles/2017/11/30/1512016920489.html)
 * [Solo从2.2.0升级到2.4的失败错误信息](http://www.tuchief.com/articles/2017/10/12/1507821825352.html)
 * [关于Mac升级到10.13之后git命令提示missing xcrun错误的解决方法](http://www.tuchief.com/articles/2017/09/26/1506435000252.html)
-* [MacOS High Sierra 10.13 发布](http://www.tuchief.com/articles/2017/09/26/1506390561810.html)
-* [在Dock中显示最近使用的应用程序或文稿](http://www.tuchief.com/articles/2017/09/02/1504336732496.html)
 
 ### 热门
 
 * [在JetBrains 全家桶中使用正则表达式进行全局替换的简单操作](http://www.tuchief.com/articles/2017/08/30/1504108330525.html)
+* [MacOS High Sierra 10.13 发布](http://www.tuchief.com/articles/2017/09/26/1506390561810.html)
 * [基于CentOS7搭建的Ngrok内网穿透服务](http://www.tuchief.com/articles/2017/08/14/1502687731371.html)
+* [在Dock中显示最近使用的应用程序或文稿](http://www.tuchief.com/articles/2017/09/02/1504336732496.html)
 * [在centos6中安装mmseg3遇到由于libtool的编译问题的解决方法](http://www.tuchief.com/articles/2017/08/08/1502162392438.html)
 * [在CentOS6.8下搭建RStudio Server进行在线数据分析](http://www.tuchief.com/rstudio-server)
 * [GreenPlum 数据库分析开源库 MADlib 的安装与卸载](http://www.tuchief.com/articles/2017/08/10/1502334175804.html)

@@ -38,8 +38,8 @@ TuChief's Tech
 * [在Dock中显示最近使用的应用程序或文稿](http://www.tuchief.com/articles/2017/09/02/1504336732496.html)
 * [在centos6中安装mmseg3遇到由于libtool的编译问题的解决方法](http://www.tuchief.com/articles/2017/08/08/1502162392438.html)
 * [在CentOS6.8下搭建RStudio Server进行在线数据分析](http://www.tuchief.com/rstudio-server)
-* [GreenPlum 数据库分析开源库 MADlib 的安装与卸载](http://www.tuchief.com/articles/2017/08/10/1502334175804.html)
 * [在CentOS7中添加自启动服务和脚本的操作](http://www.tuchief.com/articles/2017/08/24/1503538239369.html)
+* [GreenPlum 数据库分析开源库 MADlib 的安装与卸载](http://www.tuchief.com/articles/2017/08/10/1502334175804.html)
 * [install csft-4.1 configure: error: cannot run C compiled programs. by centos6](http://www.tuchief.com/articles/2017/08/08/1502167261988.html)
 * [世界，你好！](http://www.tuchief.com/hello-world)
 

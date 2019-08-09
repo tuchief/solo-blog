@@ -10,6 +10,7 @@ TuChief's Tech
 
 ### 最新
 
+* [更新到macOS Catalina beta，使用Parallels Desktop上的windows提示 “Windows无法访问\\Mac \ home \ Desktop”](http://www.tuchief.com/articles/2019/08/09/1565333021268.html)
 * [升级xcode11后的Git出现xcrun: error: invalid active developer path, missing xcrun的问题](http://www.tuchief.com/articles/2019/08/01/1564622855254.html)
 * [关于Mac下TNT软件无法运行或闪退问题的解决方法](http://www.tuchief.com/articles/2019/07/24/1563953752927.html)
 * [Mac下强制关闭VMware Fusion中的虚拟机的方法](http://www.tuchief.com/articles/2019/07/24/1563950707214.html)
@@ -29,7 +30,6 @@ TuChief's Tech
 * [Selenium: is not clickable at point (x, y). Other element would receive the click](http://www.tuchief.com/articles/2018/01/22/1516589481789.html)
 * [编译MacOS版本的 RedisDesktopMmanager 最新版](http://www.tuchief.com/articles/2018/01/08/1515424825749.html)
 * [chfs (CuteHttpFileServer) 一个可以将文件夹变成网页|免费绿色|HTTP|文件共享服务器工具](http://www.tuchief.com/articles/2017/12/09/1512833111639.html)
-* [一条命令让您的 macOS 用 Touch ID 授权 sudo](http://www.tuchief.com/articles/2017/11/30/1512016920489.html)
 
 ### 热门
 
@@ -37,6 +37,7 @@ TuChief's Tech
 * [在JetBrains 全家桶中使用正则表达式进行全局替换的简单操作](http://www.tuchief.com/articles/2017/08/30/1504108330525.html)
 * [MacOS High Sierra 10.13 发布](http://www.tuchief.com/articles/2017/09/26/1506390561810.html)
 * [基于CentOS7搭建的Ngrok内网穿透服务](http://www.tuchief.com/articles/2017/08/14/1502687731371.html)
+* [一条命令让您的 macOS 用 Touch ID 授权 sudo](http://www.tuchief.com/articles/2017/11/30/1512016920489.html)
 * [在Dock中显示最近使用的应用程序或文稿](http://www.tuchief.com/articles/2017/09/02/1504336732496.html)
 * [在centos6中安装mmseg3遇到由于libtool的编译问题的解决方法](http://www.tuchief.com/articles/2017/08/08/1502162392438.html)
 * [Solo从2.2.0升级到2.4的失败错误信息](http://www.tuchief.com/articles/2017/10/12/1507821825352.html)

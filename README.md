@@ -35,10 +35,10 @@ TuChief's Tech
 
 * [关于Mac升级到10.13之后git命令提示missing xcrun错误的解决方法](http://www.tuchief.com/articles/2017/09/26/1506435000252.html)
 * [在JetBrains 全家桶中使用正则表达式进行全局替换的简单操作](http://www.tuchief.com/articles/2017/08/30/1504108330525.html)
+* [在CentOS6.8下搭建RStudio Server进行在线数据分析](http://www.tuchief.com/rstudio-server)
 * [MacOS High Sierra 10.13 发布](http://www.tuchief.com/articles/2017/09/26/1506390561810.html)
 * [基于CentOS7搭建的Ngrok内网穿透服务](http://www.tuchief.com/articles/2017/08/14/1502687731371.html)
 * [一条命令让您的 macOS 用 Touch ID 授权 sudo](http://www.tuchief.com/articles/2017/11/30/1512016920489.html)
-* [在CentOS6.8下搭建RStudio Server进行在线数据分析](http://www.tuchief.com/rstudio-server)
 * [在Dock中显示最近使用的应用程序或文稿](http://www.tuchief.com/articles/2017/09/02/1504336732496.html)
 * [chfs (CuteHttpFileServer) 一个可以将文件夹变成网页|免费绿色|HTTP|文件共享服务器工具](http://www.tuchief.com/articles/2017/12/09/1512833111639.html)
 * [在centos6中安装mmseg3遇到由于libtool的编译问题的解决方法](http://www.tuchief.com/articles/2017/08/08/1502162392438.html)

@@ -10,6 +10,7 @@ TuChief's Tech
 
 ### 最新
 
+* [Python&Scrapy异常解决：requests.exceptions.InvalidHeader: Invalid return character or leading space in header: Referer](https://www.tuchief.com/articles/2019/11/19/1574130347443.html)
 * [关于Final Cut Pro在母版文件导出中，如果分辨率无法被修改的话](https://www.tuchief.com/articles/2019/08/25/1566700731618.html)
 * [更新到macOS Catalina beta，使用Parallels Desktop上的windows提示 “Windows无法访问\\Mac \ home \ Desktop”](https://www.tuchief.com/articles/2019/08/09/1565333021268.html)
 * [升级xcode11后的Git出现xcrun: error: invalid active developer path, missing xcrun的问题](https://www.tuchief.com/articles/2019/08/01/1564622855254.html)
@@ -29,10 +30,10 @@ TuChief's Tech
 * [Windows Installr 正在安装其他程序。请等待，然后尝试安装次程序](https://www.tuchief.com/articles/2018/02/23/1519376514293.html)
 * [什么值得买每日自动签到脚本](https://www.tuchief.com/articles/2018/02/22/1519267855486.html)
 * [Selenium: is not clickable at point (x, y). Other element would receive the click](https://www.tuchief.com/articles/2018/01/22/1516589481789.html)
-* [编译MacOS版本的 RedisDesktopMmanager 最新版](https://www.tuchief.com/articles/2018/01/08/1515424825749.html)
 
 ### 热门
 
+* [编译MacOS版本的 RedisDesktopMmanager 最新版](https://www.tuchief.com/articles/2018/01/08/1515424825749.html)
 * [关于Mac升级到10.13之后git命令提示missing xcrun错误的解决方法](https://www.tuchief.com/articles/2017/09/26/1506435000252.html)
 * [在JetBrains 全家桶中使用正则表达式进行全局替换的简单操作](https://www.tuchief.com/articles/2017/08/30/1504108330525.html)
 * [在CentOS6.8下搭建RStudio Server进行在线数据分析](https://www.tuchief.com/rstudio-server)

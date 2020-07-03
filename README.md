@@ -1,16 +1,15 @@
-<p align="center"><img alt="Tech Misc" src="https://ws1.sinaimg.cn/large/006tNc79ly1g2wjsqx73tj305k05k3yf.jpg"></p><h2 align="center">
-Tech Misc
+<p align="center"><img alt="TuChief's Tech" src="https://ws1.sinaimg.cn/large/006tNc79ly1g2wjsqx73tj305k05k3yf.jpg"></p><h2 align="center">
+TuChief's Tech
 </h2>
 
-<h4 align="center">Hello World</h4>
-<p align="center"><a title="Tech Misc" target="_blank" href="https://github.com/tuchief/solo-blog"><img src="https://img.shields.io/github/last-commit/tuchief/solo-blog.svg?style=flat-square&color=FF9900"></a>
+<h4 align="center">好心态才有好状态</h4>
+<p align="center"><a title="TuChief's Tech" target="_blank" href="https://github.com/tuchief/solo-blog"><img src="https://img.shields.io/github/last-commit/tuchief/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/tuchief/solo-blog"><img src="https://img.shields.io/github/repo-size/tuchief/solo-blog.svg?style=flat-square"></a>
-<a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-4.2.0-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-4.1.0-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/tuchief/solo-blog.svg"></a></p>
 
 ### 最新
 
-* [springboot在构造方法中使用@Value获取配置信息为null的原因与解决](https://www.tuchief.com/articles/2020/06/16/1592278507815.html)
 * [fix the error “host key verification failed”](https://www.tuchief.com/articles/2020/04/10/1586489349741.html)
 * [Windows下启动Redis时出现Creating Server TCP listening socket 0.0.0.0:6379: bind: No such file or directory](https://www.tuchief.com/articles/2020/04/02/1585798717192.html)
 * [关于SpringBoot下Shiro的拦截器配置中anon不起作用的问题](https://www.tuchief.com/articles/2020/03/17/1584410373904.html)
@@ -30,6 +29,7 @@ Tech Misc
 * [解决webpck不能编译scss文件中的 -webkit-box-orient: vertical 属性](https://www.tuchief.com/articles/2018/08/20/1534780454139.html)
 * [升级tensorflow后，出现错误为 ImportError: No module named protobuf 的信息](https://www.tuchief.com/articles/2018/07/24/1532421155317.html)
 * [解决ImportError: No module named svmutil异常报错](https://www.tuchief.com/articles/2018/07/24/1532420671546.html)
+* [python pip/conda 升级所有包](https://www.tuchief.com/articles/2018/07/24/1532410813337.html)
 
 ### 热门
 
@@ -57,7 +57,6 @@ Tech Misc
 ### 热议
 
 * [在CodeMirror编辑界面中光标处插入内容](https://www.tuchief.com/articles/2018/07/22/1532191523858.html)
-* [python pip/conda 升级所有包](https://www.tuchief.com/articles/2018/07/24/1532410813337.html)
 * [Windows Installr 正在安装其他程序。请等待，然后尝试安装次程序](https://www.tuchief.com/articles/2018/02/23/1519376514293.html)
 
 ---

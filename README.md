@@ -5,7 +5,7 @@ Tech Misc
 <h4 align="center">Hello World</h4>
 <p align="center"><a title="Tech Misc" target="_blank" href="https://github.com/tuchief/solo-blog"><img src="https://img.shields.io/github/last-commit/tuchief/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/tuchief/solo-blog"><img src="https://img.shields.io/github/repo-size/tuchief/solo-blog.svg?style=flat-square"></a>
-<a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-4.3.0-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-4.3.1-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/tuchief/solo-blog.svg"></a></p>
 
 ### 最新

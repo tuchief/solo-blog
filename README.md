@@ -10,6 +10,7 @@ TuChief’s Nest
 
 ### 最新
 
+* [解决 homebrew-core is a shallow clone To `brew update`, first run 错误](https://www.tuchief.com/articles/2021/02/04/1612446589398.html)
 * [解决Github无法加载或不显示图片问题](https://www.tuchief.com/articles/2020/11/05/1604549837340.html)
 * [centos7下安装CDH5.14.4的问题汇总](https://www.tuchief.com/articles/2020/07/13/1594651700341.html)
 * [scrapy-deploy打包scrapy项目部署，提示 zipimport.ZipImportError:can't find module 'spider'](https://www.tuchief.com/articles/2020/07/07/1594103998350.html)
@@ -29,7 +30,6 @@ TuChief’s Nest
 * [关于Mac下TNT软件无法运行或闪退问题的解决方法](https://www.tuchief.com/articles/2019/07/24/1563953752927.html)
 * [Mac下强制关闭VMware Fusion中的虚拟机的方法](https://www.tuchief.com/articles/2019/07/24/1563950707214.html)
 * [升级macOS到10.15 Beta 版(19A487m)，代号 Catalina](https://www.tuchief.com/articles/2019/06/29/1561784807995.html)
-* [IDEA 单行注释自动缩进的配置](https://www.tuchief.com/articles/2019/05/23/1558617608961.html)
 
 
 

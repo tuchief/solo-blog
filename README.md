@@ -1,15 +1,16 @@
-<p align="center"><img alt="TuChief’s Nest" src="https://ws1.sinaimg.cn/large/006tNc79ly1g2wjsqx73tj305k05k3yf.jpg"></p><h2 align="center">
-TuChief’s Nest
+<p align="center"><img alt="TuChief’s Metaverse" src="https://ws1.sinaimg.cn/large/006tNc79ly1g2wjsqx73tj305k05k3yf.jpg"></p><h2 align="center">
+TuChief’s Metaverse
 </h2>
 
 <h4 align="center"></h4>
-<p align="center"><a title="TuChief’s Nest" target="_blank" href="https://github.com/tuchief/solo-blog"><img src="https://img.shields.io/github/last-commit/tuchief/solo-blog.svg?style=flat-square&color=FF9900"></a>
+<p align="center"><a title="TuChief’s Metaverse" target="_blank" href="https://github.com/tuchief/solo-blog"><img src="https://img.shields.io/github/last-commit/tuchief/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/tuchief/solo-blog"><img src="https://img.shields.io/github/repo-size/tuchief/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-4.3.1-f1e05a.svg?style=flat-square&color=blueviolet"></a>
 <a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/tuchief/solo-blog.svg"></a></p>
 
 ### 最新
 
+* [在apple M1 Pro上构建x86/x64 Docker镜像及使用IDEA打包的设置](https://www.tuchief.com/articles/2021/12/08/1638927629585.html)
 * [解决 homebrew-core is a shallow clone To `brew update`, first run 错误](https://www.tuchief.com/articles/2021/02/04/1612446589398.html)
 * [解决Github无法加载或不显示图片问题](https://www.tuchief.com/articles/2020/11/05/1604549837340.html)
 * [centos7下安装CDH5.14.4的问题汇总](https://www.tuchief.com/articles/2020/07/13/1594651700341.html)
@@ -29,7 +30,6 @@ TuChief’s Nest
 * [升级xcode11后的Git出现xcrun: error: invalid active developer path, missing xcrun的问题](https://www.tuchief.com/articles/2019/08/01/1564622855254.html)
 * [关于Mac下TNT软件无法运行或闪退问题的解决方法](https://www.tuchief.com/articles/2019/07/24/1563953752927.html)
 * [Mac下强制关闭VMware Fusion中的虚拟机的方法](https://www.tuchief.com/articles/2019/07/24/1563950707214.html)
-* [升级macOS到10.15 Beta 版(19A487m)，代号 Catalina](https://www.tuchief.com/articles/2019/06/29/1561784807995.html)
 
 
 

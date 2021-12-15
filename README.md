@@ -10,6 +10,7 @@ TuChief’s Metaverse
 
 ### 最新
 
+* [关于苹果 M1/M1 Pro/M2 Max 无法检查到 macOS Monterey 12.1 正式版的推送更新，以及安装程序卡在某一进度上的问题解决](https://www.tuchief.com/articles/2021/12/15/1639544124094.html)
 * [在apple M1 Pro上构建x86/x64 Docker镜像及使用IDEA打包的设置](https://www.tuchief.com/articles/2021/12/08/1638927629585.html)
 * [解决 homebrew-core is a shallow clone To `brew update`, first run 错误](https://www.tuchief.com/articles/2021/02/04/1612446589398.html)
 * [解决Github无法加载或不显示图片问题](https://www.tuchief.com/articles/2020/11/05/1604549837340.html)
@@ -29,7 +30,6 @@ TuChief’s Metaverse
 * [更新到macOS Catalina beta，使用Parallels Desktop上的windows提示 “Windows无法访问\\Mac \ home \ Desktop”](https://www.tuchief.com/articles/2019/08/09/1565333021268.html)
 * [升级xcode11后的Git出现xcrun: error: invalid active developer path, missing xcrun的问题](https://www.tuchief.com/articles/2019/08/01/1564622855254.html)
 * [关于Mac下TNT软件无法运行或闪退问题的解决方法](https://www.tuchief.com/articles/2019/07/24/1563953752927.html)
-* [Mac下强制关闭VMware Fusion中的虚拟机的方法](https://www.tuchief.com/articles/2019/07/24/1563950707214.html)
 
 
 
